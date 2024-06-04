@@ -1,0 +1,49 @@
+﻿Employee ID,Employee Name,Designation,DOJ,Employee Role,Seniority,Primary Hard Skill Classification,Location,Year in company,Certification_1,Certification_2,Certification_3
+652,Pradeep Kumar Gupta,Project Manager,18-Aug-14,Managerial,3,Data Analytics-Data Engineering,Bangalore,9,AWS,GITHUB,Python
+1682,Rohit Ratkal,Associate Vice President - Analytics,13-May-19,Managerial,3,Dashboarding-Tableau,Bangalore,4,Tableau,Power BI,SQL
+1767,Mohit Rangwani,Project Manager,16-Sep-19,Managerial,3,Data Analytics-Data Engineering,Bangalore,4,SQL,GITHUB,Python
+803,Safa Burney ,Lead Analyst,09-Mar-15,Team Leader,2,Data Analytics-Social media analytics,Bangalore,9,Python,Market Assesment,Social Media Analytics
+1159,Shashi Agarwal,Lead Developer,20-Jun-16,Team Leader,2,Data Analytics-Social media analytics,Pune,7,Python,SQL,Social Media Analytics
+1273,Imroz Khan,Lead Data Scientist,01-Dec-16,Team Leader,2,Data Analytics-Data Engineering,New York,7,Apache DataBricks,Pyspark,SQL
+1580,Hitendra Singh,Lead Engineer,10-Sep-18,Team Leader,2,Data Analytics-Structured data Analytics,New York,5,AWS,SQL,Python
+1587,Manish Kumar,Lead Engineer,05-Oct-18,Team Leader,2,Data Analytics-Structured data Analytics,Pune,5,AWS,SQL,Python
+1636,Sreekumar PS ,Lead Data Scientist,14-Jan-19,Team Leader,2,Data Analytics-Data Science,Pune,5,ML,SQL,Python
+801,Sagar Kamire,Senior Analyst,05-Mar-15,Team Player,1,Dashboarding-Tableau,New York,9,Tableau,Power BI,SQL
+1342,Rachit Huria,Data Scientist,02-May-17,Team Player,1,Dashboarding-Tableau,New York,6,Tableau,Power BI,SQL
+1353,Kritarth Srivastava,Data Scientist,10-May-17,Team Player,1,Data Analytics-Data Engineering,New York,6,Apache DataBricks,Pyspark,SQL
+1381,Ankit Bhingare,Software Engineer,13-Jun-17,Team Player,1,Database-SQL Server,New York,6,AWS,SQL,Python
+1382,Shilin Josline,Software Engineer,19-Jun-17,Team Player,1,Data Analytics-Social media analytics,Pune,6,Python,Market Assesment,Social Media Analytics
+1410,Madhup Sukoon,Senior Data Scientist,24-Jul-17,Team Player,1,Data Analytics-Data Engineering,California,6,AWS,SQL,Python
+1546,Phaneendra Dodda,Senior Software Engineer,31-May-18,Team Player,1,Dashboarding-Tableau,California,5,Tableau,Power BI,SQL
+1635,Sadanand Prajapati ,Data Engineer,14-Jan-19,Team Player,1,Data Analytics-Data Engineering,California,5,SQL,GITHUB,Python
+1639,Payel Chakraborty,Data Scientist,15-Jan-19,Team Player,1,Data Analytics-Social media analytics,California,5,Social Media Analytics,Python,SQL
+1641,Alok Yermalkar,Junior Data Engineer,28-Jan-19,Team Player,1,Data Analytics-Data Engineering,Bangalore,5,SQL,GITHUB,Python
+1645,Himal Raj,Senior Analyst,11-Feb-19,Team Player,1,Dashboarding-Tableau,California,5,Tableau,Power BI,SQL
+1657,Pooja Vaze,Data Scientist ,04-Mar-19,Team Player,1,Data Analytics-Data Science,Bangalore,5,AWS,ML,Python
+1666,Malay Kumar Rout,Data Engineer,27-Mar-19,Team Player,1,Data Analytics-Data Engineering,Bangalore,5,SQL,GITHUB,Python
+1670,Parakh Tayal,Junior Data Engineer,08-Apr-19,Team Player,1,Data Analytics-Data Engineering,Bangalore,5,SQL,GITHUB,Python
+1677,Amisha Tayal,Data Engineer,02-May-19,Team Player,1,Data Analytics-Data Engineering,Bangalore,4,Apache DataBricks,Pyspark,SQL
+1719,Sameer Belusonti,Junior Data Engineer,01-Jul-19,Team Player,1,Data Analytics-Data Engineering,Pune,4,Apache DataBricks,Pyspark,Python
+1720,Gaurav Kumar,Junior Data Engineer,01-Jul-19,Team Player,1,Data Analytics-Data Engineering,Pune,4,SQL,GITHUB,Python
+1741,Ishtpreet Singh,Junior Data Engineer,01-Aug-19,Team Player,1,Dashboarding-Tableau,Pune,4,Tableau,Power BI,SQL
+1742,Abdulkadar Ibrahim Babbar,Data Scientist,12-Aug-19,Team Player,1,Data Analytics-Data Engineering,Pune,4,SQL,GITHUB,Python
+1757,Aditya Kumar Tiwari,Junior Data Engineer,03-Sep-19,Team Player,1,Data Analytics-Data Engineering,Pune,4,Python,SQL,Apache Spark
+1825,Tanish Sanghvi,Junior Data Scientist,10-Dec-19,Team Player,1,Data Analytics-Data Science,Pune,4,ML,Python,SQL
+1836,Deepali Sharma,Junior Data Scientist,03-Jan-20,Team Player,1,Data Analytics-Data Science,Pune,4,NLP,ML,Python
+1856,Rony John Thomas,Senior Data Scientist,06-Feb-20,Team Player,1,Data Analytics-Data Engineering,Pune,4,Pyspark,R,SQL
+1908,Ankit Agrawal,Junior Data Scientist,08-Jun-20,Team Player,1,Data Analytics-Data Engineering,New York,3,SQL,GITHUB,Python
+1925,Prikshit Singla,Junior Data Engineer,21-Jul-20,Team Player,1,Data Analytics-Social media analytics,California,3,Python,Market Assesment,Social Media Analytics
+1926,Pippala Balaji,Data Engineer,01-Jul-20,Team Player,1,Data Analytics-Data Engineering,California,3,Python,SQL,Data Preprocessing
+1092,Abhishek Jha,Project Manager,22-Feb-16,Managerial,3,Software development-Backend/Database,Bangalore,8,CSS,D3.js,AWS Athena
+1340,Raghavendra Rao Pattaswamy,AVP - Automation,21-Apr-17,Managerial,3,Software testing-Automated,Berlin,7,AWS,Java,Selenium
+1944,Mahammad Khaja Ramizuddin,BI Engineer,19-Aug-20,Team Player,1,Dashboarding-Tableau,Berlin,3,Tableau,Power BI,SQL
+1576,Kishor Wagh,Sr. Automation Engineer,10-Aug-18,Team Player,1,Software testing-Automated,Pune,5,AWS,Java,Selenium
+1737,Brijendra Yadav,Automation Engineer,22-Jul-19,Team Player,1,Software testing-Automated,Pune,4,AWS,jQuery,Selenium
+1809,Sayan Ganguli,Automation Engineer,31-Oct-19,Team Player,1,Software testing-Automated,Bangalore,4,Python,SQL,Social Media Analytics
+1822,Vishal Chandale,Senior Automation Engineer,02-Dec-19,Team Player,1,Software testing-Automated,Bangalore,4,Apache DataBricks,Selenium,JavaScirpt
+1874,Chetkoori Srilekha,Associate Engineer – QA ,26-Mar-20,Team Player,1,Software testing-Automated,Bangalore,4,Selenium,GITHUB,Java
+1886,Petla Ravi Kumar,Engineer - QA,15-Apr-20,Team Player,1,Software testing-Automated,New York,4,Java Script,Selenium,Automation Testing
+1902,Kiran Sharma,Engineer - QA,04-Jun-20,Team Player,1,Software testing-Automated,Pune,3,Java Script,Java,Selenium
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
